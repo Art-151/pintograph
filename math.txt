@@ -1,0 +1,13 @@
+x = (-4*A*A*c + 4*e*A*A + sqrt(pow((4*A*A*c - 4*e*A*A - 4*B*B*c 
++ 4*e*B*B - 4*c*c*c + 4*e*c*c - 4*c*d*d + 8*c*d*f - 4*c*f*f 
++ 4*e*e*c - 4*e*d*d + 8*e*d*f - 4*e*f*f - 4*e^3), 2)
+- 4*(4*c*c - 8*e*c + 4*d*d - 8*d*f 
+    + 4*f*f + 4*e*e) (A^4 - 2*A*A*B*B - 2*A*A*c*c - 2*A*A*d*d 
+        + 4*A*A*d*f - 2*A*A*f*f + 2*e*e*A*A + B*B*B*B + 2*B*B*c*c 
+        - 2*B*B*d*d + 4*B*B*d*f - 2*B*B*f*f - 2*e*e*B*B + c*c*c*c 
+        + 2*c*c*d*d - 4*c*c*d*f + 2*c*c*f*f - 2*e*e*c*c + d*d*d*d 
+        - 4*d*d*d*f + 6*d*d*f*f + 2*e*e*d*d - 4*d*f*f*f - 4*e*e*d*f 
+        + f*f*f*f + 2*e*e*f*f + e*e*e*e)) + 4*B*B*c - 4*e*B*B + 4*c^3 
+        - 4*e*c*c + 4*c*d*d - 8*c*d*f + 4*c*f*f - 4*e*e*c 
+        + 4*e*d*d - 8*e*d*f + 4*e*f*f + 4*e*e*e)/(2*(4*c*c 
+            - 8*e*c + 4*d*d - 8*d*f + 4*f*f + 4*e*e))
